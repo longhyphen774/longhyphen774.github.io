@@ -1,6 +1,8 @@
 #+TITLE: Sitemap for project blog-index
 
 - [[file:index.org][As I mused,]]
+- [[file:theindex.org][Index]]
 - posts
+  - [[file:posts/theindex.org][Index]]
   - [[file:posts/sitemap.org][Sitemap for project blog-posts]]
   - [[file:posts/init.org][init]]
