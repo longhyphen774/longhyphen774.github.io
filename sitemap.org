@@ -1,0 +1,3 @@
+#+TITLE: Sitemap for project blog-index
+
+- [[file:index.org][As I mused,]]
